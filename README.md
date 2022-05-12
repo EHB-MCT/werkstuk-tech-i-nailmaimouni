@@ -21,8 +21,8 @@ Vul volgende elementen in, deze zullen dezelfde zijn voor iedereen in de groep. 
 5. (De familie van het meisje komt te weten dat deze nog een relatie hebben.)
 6. (Ze voeren een maffia oorlog.) !
 7. (Tijdens een schiet-partij geraakt de jongen gewond en zal later in het ziekenhuis overlijden.) !!
-8. (Treasure)
-9. (Result)
+8. (Treasure) Tijdens een vergadering stemde de familie van de jongen om het meisje te verkrachten.
+9. (Result) Na de verkrachting komt een ambulance.
 10. (Return)
 11. (New life)
 12. (Resolution)
