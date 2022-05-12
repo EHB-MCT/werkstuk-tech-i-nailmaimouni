@@ -1,1 +1,20 @@
-Zet hier de arduino code
+int button = 3;
+byte arbitraryCode = 97;
+int lastButtonState;    // the previous state of button
+int currentButtonState; // the current state of button
+void setup() {
+  Serial.begin(9600);
+    pinMode(button, INPUT_PULLUP); // to set arduino pin to input pull-up mode
+
+    currentButtonState = digitalRead(button);
+
+}
+ 
+void loop() {
+  int test = digitalRead(button);
+  Serial.println(test);
+  if (!digitalRead(button)) {
+    Serial.write(arbitraryCode);
+    delay(500);
+  }
+}
