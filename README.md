@@ -22,9 +22,9 @@ Vul volgende elementen in, deze zullen dezelfde zijn voor iedereen in de groep. 
 6. (Ze voeren een maffia oorlog.) !
 7. (Tijdens een schiet-partij geraakt de jongen gewond en zal later in het ziekenhuis overlijden.) !!
 8. (Treasure) Tijdens een vergadering stemde de familie van de jongen om het meisje te verkrachten.
-9. (Result) Na de verkrachting komt een ambulance.
-10. (Return)
-11. (New life)
+9. (Result) Het meisje wordt verkracht, Na de verkrachting komt een ambulance.
+10. (Return) 20 jaar later komt hun zoon terug om wraak te nemen
+11. (New life) Hij dood de verkrachters en neemt wraak voor zijn ouders.
 12. (Resolution)
 13. (new status quo)
 
@@ -33,7 +33,7 @@ Vul volgende elementen in, deze zullen dezelfde zijn voor iedereen in de groep. 
 
 Leg uit hoe je de experience van de gebruiker vormgaf en waar je nog dingen zou toevoegen (licht, geluid, materiaal, etc)
 
-- Met een oranje (vuur)zone heb ik hierop een pistool en een doodskop geplakt. Ik zou een grote slagveld toevoegen met personen die op elkaar schieten.
+- Met een oranje (vuur)zone (gevaar) heb ik hierop een pistool en een doodskop (de dood) geplakt. Ik zou een grote slagveld toevoegen met personen die op elkaar schieten.
 
 ## Interaction
 
